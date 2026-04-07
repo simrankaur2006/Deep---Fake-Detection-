@@ -52,7 +52,6 @@ dataset/
 # 🏋️ Training
 
 Run the training script:
-
 python train.py
 
 # 🔍 Prediction
@@ -60,9 +59,7 @@ python predict.py --image path/to/image.jpg
 
 # 🌐 Web App (Optional)
 
-Run the UI:
-
-python app.py
+Run the UI:   python app.py
 
 # 📈 Evaluation Metrics
 Accuracy
