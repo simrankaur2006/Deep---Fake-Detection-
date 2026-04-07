@@ -34,19 +34,25 @@ deepfake-detection/
 │── README.md
 
 # ⚙️ Installation
-git clone 
-cd deepfake-detection
+          git clone 
 
-pip install -r requirements.txt
+          cd deepfake-detection
+
+          pip install -r requirements.txt
 
 # 📊 Dataset Format
 dataset/
+
 ├── real/
+
 │   ├── img1.jpg
+
 │   ├── img2.jpg
 │
 ├── fake/
+
 │   ├── img1.jpg
+
 │   ├── img2.jpg
 
 # 🏋️ Training
@@ -62,11 +68,11 @@ python predict.py --image path/to/image.jpg
 Run the UI:   python app.py
 
 # 📈 Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1 Score
-Confusion Matrix
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+5. Confusion Matrix
 
 # 🛠 Tech Stack
 1. Python
