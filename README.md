@@ -69,19 +69,19 @@ F1 Score
 Confusion Matrix
 
 # 🛠 Tech Stack
-Python
-PyTorch
-Hugging Face Transformers
-OpenCV
-NumPy 
-Pandas
-Flask 
+1. Python
+2. PyTorch
+3. Hugging Face Transformers
+4. OpenCV
+5. NumPy 
+6. Pandas
+7. Flask 
 
 # 🤝 Contributing
 
-Contributions are welcome!
+      Contributions are welcome!
 
-Fork the repository
-Create a new branch
-Make your changes
-Submit a pull request
+             Fork the repository
+             Create a new branch
+             Make your changes
+             Submit a pull request
